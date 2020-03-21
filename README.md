@@ -14,7 +14,7 @@ Natural Language processing (NLP) is applying machine learning models to text an
 
 NLP uses "Sentiment Analysis". This is applied in identifying the mood or subjective opinions within large amounts of text, including average sentiment and opinion mining.
 
-**NLP uses**
+**NLP applications**
 
 - Predicting the genre of a book.
 - Predicting the categories of an article we are segmenting.
