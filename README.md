@@ -2,7 +2,7 @@
 
 **Task: Restaurant reviews classification analysis**
 
-We have been tasked by a restaurant to produce a machine learning algorithm, that analyses their reviews. These reviews have been posted on their feedback page and there are too many to manually sort.
+We have been tasked by a restaurant to produce a machine learning algorithm that analyses their reviews. These reviews have been posted on their feedback page and there are too many to manually sort.
 
 We will be using "Natural Language Processing" to analyse these customer reviews.
 
@@ -16,12 +16,12 @@ NLP uses "Sentiment Analysis". This is applied in identifying the mood or subjec
 
 **NLP uses**
 
-- Predicting the genre of a book
-- Predicting the categories of an article we are segmenting
-- Question answering
-- Building a machine translator
-- Building a speech recognition system
-- Document summarisation
+- Predicting the genre of a book.
+- Predicting the categories of an article we are segmenting.
+- Question answering.
+- Building a machine translator.
+- Building a speech recognition system.
+- Document summarisation.
 
 Most NLP algorithms are classification models, they include Logistic Regression, Naive Bayes, Classification and Regression Trees which are based on decision trees, Maximum Entropy and Hidden Markov models which are based on Markov processes.
 
@@ -35,5 +35,5 @@ Most NLP algorithms are classification models, they include Logistic Regression,
 **Bag of words**
 
 A very well known model in NLP is the Bag of Words model. It is a model used to preprocess the texts to classify before fitting the classification algorithms on the observations containing the text. It involves two things:
-- 1.) A vocabulary of known words
-- 2.) A measure of the presence of known words
+1.) A vocabulary of known words
+2.) A measure of the presence of known words
