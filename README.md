@@ -36,5 +36,5 @@ Most NLP algorithms are classification models, they include Logistic Regression,
 
 A very well known model in NLP is the Bag of Words model. It is a model used to preprocess the texts to classify before fitting the classification algorithms on the observations containing the text. It involves two things:
 
-- 1.) A vocabulary of known words
-- 2.) A measure of the presence of known words
+- 1) A vocabulary of known words.
+- 2) A measure of the presence of known words.
